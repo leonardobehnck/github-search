@@ -3,5 +3,6 @@
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
     <string name="saved_user" />
+    <string name="response_error" >Usuário não encontrado.</string>
 
 </resources>
